@@ -8,6 +8,7 @@ Source : [WHO](https://www.who.int/news-room/fact-sheets/detail/parkinson-diseas
 Using SVM (Support Vector Machine), this project will classify the input as either 
 - Status = 1 i.e. has Parkinsons or
 - Status = 0 i.e. does not have Parkinsons
+
 The features considered here are :
 - Average, Max and Min vocal fundamental frequency
 - Several measures of variation in fundamental frequency
