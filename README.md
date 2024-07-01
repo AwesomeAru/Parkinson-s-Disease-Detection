@@ -9,7 +9,9 @@ Using SVM (Support Vector Machine), this project will classify the input as eith
 - Status = 1 i.e. has Parkinsons or
 - Status = 0 i.e. does not have Parkinsons
 
-The features considered here are :
+The model acchieved 81.63% mean absolute error on validation data
+
+The features considered by the model are :
 - Average, Max and Min vocal fundamental frequency
 - Several measures of variation in fundamental frequency
 - Several measures of variation in amplitude
@@ -17,4 +19,10 @@ The features considered here are :
 - Three nonlinear measures of fundamental frequency variation
 
 Link for the dataset : [Kaggle](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set)
+
+![image](https://github.com/AwesomeAru/Parkinson-s-Disease-Detection/assets/93476957/3272b353-841d-4024-80fe-ab21b0dc4cc0)
+
+![image](https://github.com/AwesomeAru/Parkinson-s-Disease-Detection/assets/93476957/d4a6f843-6dcf-4278-b44f-6edf997df700)
+
+
 
