@@ -9,7 +9,7 @@ Using SVM (Support Vector Machine), this project will classify the input as eith
 - Status = 1 i.e. has Parkinsons or
 - Status = 0 i.e. does not have Parkinsons
 
-The model acchieved 81.63% mean absolute error on validation data
+The model acchieved an accuracy of 81.63% on validation data
 
 The features considered by the model are :
 - Average, Max and Min vocal fundamental frequency
