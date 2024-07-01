@@ -14,6 +14,7 @@ The features considered here are :
 - Several measures of variation in fundamental frequency
 - Several measures of variation in amplitude
 - Two measures of ratio of noise to tonal components in the voice
-- Three nonlinear measures of fundamental frequency variatio
+- Three nonlinear measures of fundamental frequency variation
+
 Link for the dataset : [Kaggle](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set)
 
